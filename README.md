@@ -35,22 +35,15 @@ A complete repository showcasing my journey in Computer Vision from basics to re
 ### 4. YOLOv8 Real-Time Object Detection
 - Detects 80+ common objects with high accuracy
 
-## 📸 Demo Screenshots
-*(Add screenshots here after running projects)*
-
-## 🛠 How to Run
-1. Clone the repo
-2. `pip install -r requirements.txt`
-3. Run any project file
 
 ## 📌 Future Plans
 - Custom Object Detection with YOLO
 - MediaPipe integration
-- Web deployment using Flask/Streamlit
+- Web deployment using Flask and Streamlit
 
 ## 📞 Connect With Me
-- LinkedIn: [Your Profile]
-- GitHub: [Your Username]
+- LinkedIn: https://www.linkedin.com/in/shreekanthashokg/
+- GitHub: https://github.com/shreekanthashokg-lang
 
 ---
 Made with ❤️ during Innomatics Computer Vision Workshop
