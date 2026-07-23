@@ -38,7 +38,7 @@ A complete repository showcasing my journey in Computer Vision from basics to re
 
 ## 📌 Future Plans
 - CUSTOM OBJECT DETECTION WITH YOLO
-- MediaPipe integration
+- MediaPipe INTEGRATION
 - Web deployment using Flask and Streamlit
 
 ## 📞 Connect With Me
