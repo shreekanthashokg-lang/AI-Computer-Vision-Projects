@@ -12,7 +12,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 ## 🛠 Technologies Used
 - PYTHON
 - OPENCV
-- YOLOv8 (Ultralytics)
+- YOLO V8 (Ultralytics)
 - NUMPY, MATPLOTLIB
 
 ## 📁 Project Structure
