@@ -13,7 +13,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 - PYTHON
 - OPENCV
 - YOLOv8 (Ultralytics)
-- NumPy, Matplotlib
+- NUMPY, Matplotlib
 
 ## 📁 Project Structure
 - **Day-wise Practice** → Basics to Advanced OpenCV
