@@ -11,7 +11,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 
 ## 🛠 Technologies Used
 - PYTHON
-- OpenCV
+- OPENCV
 - YOLOv8 (Ultralytics)
 - NumPy, Matplotlib
 
