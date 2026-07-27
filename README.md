@@ -16,7 +16,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 - NUMPY, MATPLOTLIB
 
 ## 📁 Project Structure
-- **Day-wise Practice** → BASICS to Advanced OpenCV
+- **Day-wise Practice** → BASICS TO Advanced OpenCV
 - **Mini Projects** → Real-world applications
 
 ## 🚀 Mini Projects
