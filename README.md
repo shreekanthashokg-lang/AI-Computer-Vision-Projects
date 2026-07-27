@@ -27,7 +27,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 - CSV export support
 
 ### 2. Color Object Tracker
-- Tracks specific colored objects in real-time
+- TRACKS specific colored objects in real-time
 
 ### 3. Motion Detection & Alert System
 - Detects movement and logs alerts
