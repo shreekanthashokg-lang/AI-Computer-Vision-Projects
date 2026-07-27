@@ -33,7 +33,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 - Detects movement and logs alerts
 
 ### 4. YOLOv8 Real-Time Object Detection
-- Detects 80+ common objects with high accuracy
+- Detects 80+ common objects with HIGH accuracy
 
 
 ## 📌 Future Plans
