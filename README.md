@@ -17,7 +17,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 
 ## 📁 Project Structure
 - **Day-wise Practice** → BASICS TO ADVANCED OpenCV
-- **Mini Projects** → REAL-WORLD applications
+- **Mini Projects** → REAL-WORLD APPLICATIONS
 
 ## 🚀 Mini Projects
 
