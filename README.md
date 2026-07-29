@@ -24,7 +24,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision FROM BASICS TO REAL
 ### 1. Live Face Attendance System
 - REAL-TIME FACE DETECTION
 - Attendance LOGGING with TIMESTAMP
-- CSV export SUPPORT
+- CSV EXPORT SUPPORT
 
 ### 2. Color Object TRACKER
 - TRACKS specific colored objects in real-TIME
