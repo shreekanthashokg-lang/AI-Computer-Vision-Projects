@@ -22,7 +22,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision FROM BASICS TO REAL
 ## 🚀 MINI PROJECTS
 
 ### 1. Live Face Attendance System
-- REAL-TIME FACE detection
+- REAL-TIME FACE DETECTION
 - Attendance LOGGING with TIMESTAMP
 - CSV export SUPPORT
 
