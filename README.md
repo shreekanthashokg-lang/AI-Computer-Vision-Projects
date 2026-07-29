@@ -9,7 +9,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 ## 📌 Workshop Completed
 **5-Day Offline Computer Vision Workshop** - Innomatics Research Labs (July 2026)
 
-## 🛠 Technologies Used
+## 🛠 Technologies USED
 - PYTHON
 - OPENCV
 - YOLO V8 (Ultralytics)
