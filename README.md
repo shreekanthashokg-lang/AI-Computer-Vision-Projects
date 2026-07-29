@@ -19,7 +19,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision from BASICS TO REAL
 - **Day-wise Practice** → BASICS TO ADVANCED OpenCV
 - **Mini Projects** → REAL-WORLD APPLICATIONS
 
-## 🚀 MINI Projects
+## 🚀 MINI PROJECTS
 
 ### 1. Live Face Attendance System
 - Real-time FACE detection
