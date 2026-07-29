@@ -15,7 +15,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision FROM BASICS TO REAL
 - YOLO V8 (Ultralytics)
 - NUMPY, MATPLOTLIB
 
-## 📁 Project STRUCTURE
+## 📁 PROJECT STRUCTURE
 - **Day-wise Practice** → BASICS TO ADVANCED OpenCV
 - **Mini Projects** → REAL-WORLD APPLICATIONS
 
