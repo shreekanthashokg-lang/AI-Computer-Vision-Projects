@@ -41,7 +41,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision FROM BASICS TO REAL
 - MEDIAPIPE INTEGRATION
 - WEB DEPLOYMENT USING FLASK AND STREAMLIT
 
-## 📞 CONNECT With Me
+## 📞 CONNECT WITH ME
 - LinkedIn: https://www.linkedin.com/in/shreekanthashokg/
 - GitHub: https://github.com/shreekanthashokg-lang
 
