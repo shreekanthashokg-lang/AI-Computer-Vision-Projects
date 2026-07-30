@@ -26,7 +26,7 @@ A COMPLETE Repository SHOWCASE MY JOURNEY IN Computer Vision FROM BASICS TO REAL
 - Attendance LOGGING with TIMESTAMP
 - CSV EXPORT SUPPORT
 
-### 2. Color Object TRACKER
+### 2. COLOR Object TRACKER
 - TRACKS specific colored objects in real-TIME
 
 ### 3. Motion Detection & Alert System
