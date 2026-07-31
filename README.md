@@ -4,7 +4,7 @@ My Computer Vision Journey using Python, OpenCV, and YOLO. Includes hands-on pro
 
 # Computer Vision Projects With OpenCV & YOLO
 
-A COMPLETE REPOSITORY SHOWCASE MY JOURNEY IN Computer Vision FROM BASICS TO REAL-TIME APPLICATIONS.
+A COMPLETE REPOSITORY SHOWCASE MY JOURNEY IN COMPUTER VISION FROM BASICS TO REAL-TIME APPLICATIONS.
 
 ## 📌 Workshop Completed
 **5-Day Offline Computer Vision Workshop** - Innomatics Research Labs (July 2026)
