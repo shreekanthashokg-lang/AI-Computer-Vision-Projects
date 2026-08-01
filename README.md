@@ -23,11 +23,11 @@ A COMPLETE REPOSITORY SHOWCASE MY JOURNEY IN COMPUTER VISION FROM BASICS TO REAL
 
 ### 1. Live Face Attendance System
 - REAL-TIME FACE DETECTION
-- ATTENDANCE LOGGING with TIMESTAMP
+- ATTENDANCE LOGGING WITH TIMESTAMP
 - CSV EXPORT SUPPORT
 
 ### 2. COLOR Object TRACKER
-- TRACKS specific colored objects in real-TIME
+- TRACKS SPECIFIC colored objects in real-TIME
 
 ### 3. Motion Detection & Alert System
 - Detects movement and logs alerts
