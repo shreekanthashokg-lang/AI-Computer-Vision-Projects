@@ -1,5 +1,5 @@
 # AI-Computer-Vision-Projects
-My Computer Vision JOURNEY using Python, OpenCV, AND YOLO. Includes HANDS-ON PROJECTS from 5-Day Offline Workshop by Innomatics Research Labs (July 2026) + real-TIME APPLICATIONS LIKE FACE ATTENDANCE SYSTEM, Object Tracking, Motion Detection, And YOLOv8 Detection.
+My Computer Vision JOURNEY using Python, OpenCV, AND YOLO. Includes HANDS-ON PROJECTS from 5-Day Offline Workshop by Innomatics Research Labs (July 2026) + real-TIME APPLICATIONS LIKE FACE ATTENDANCE SYSTEM, OBJECTS Tracking, MOTION Detection, AND YOLOv8 Detection.
 
 
 # Computer Vision Projects With OpenCV & YOLO
