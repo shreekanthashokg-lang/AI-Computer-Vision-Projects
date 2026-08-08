@@ -30,7 +30,7 @@ A COMPLETE REPOSITORY SHOWCASE MY JOURNEY IN COMPUTER VISION FROM BASICS TO REAL
 - TRACKS SPECIFIC COLORED OBJECTS IN REAL-TIME
 
 ### 3. Motion Detection & Alert System
-- Detects movement and logs alerts
+- DETECTS MOVEMENT And LOGS Alerts
 
 ### 4. YOLOv8 Real-Time Object Detection
 - DETECTS 80+ COMMON objects WITH HIGH accuracy
