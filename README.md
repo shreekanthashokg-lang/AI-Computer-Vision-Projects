@@ -46,4 +46,4 @@ A COMPLETE REPOSITORY SHOWCASE MY JOURNEY IN COMPUTER VISION FROM BASICS TO REAL
 - GitHub: https://github.com/shreekanthashokg-lang
 
 ---
-MADE WITH ❤️ during Innomatics Computer Vision Workshop
+MADE WITH ❤️ DURING Innomatics COMPUTER VISION WORKSHOP
