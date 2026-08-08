@@ -32,7 +32,7 @@ A COMPLETE REPOSITORY SHOWCASE MY JOURNEY IN COMPUTER VISION FROM BASICS TO REAL
 ### 3. Motion Detection & Alert System
 - DETECTS MOVEMENT And LOGS Alerts
 
-### 4. YOLOv8 Real-Time Object Detection
+### 4. YOLOv8 Real-Time OBJECT DETECTION
 - DETECTS 80+ COMMON objects WITH HIGH accuracy
 
 
