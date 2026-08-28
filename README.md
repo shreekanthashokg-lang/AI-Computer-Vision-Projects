@@ -94,7 +94,7 @@ The learning process focused on implementing concepts through code rather than o
 
 ---
 
-# 📁 Repository Structure
+# 📁 REPOSITORY STRUCTURE 
 
 ```text
 AI-Computer-Vision-PROJECT/
