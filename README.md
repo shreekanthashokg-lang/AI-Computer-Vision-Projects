@@ -47,7 +47,7 @@ The projects range from basic OpenCV operations to real-time applications such a
 
 ---
 
-# 🎓 Completed Computer Vision Workshop
+# 🎓 Completed COMPUTER VISION  Workshop
 
 ## 5-Day Offline Computer Vision Hands-on Workshop
 
