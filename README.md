@@ -193,7 +193,7 @@ This type of system can be extended for:
 * Workshops
 * Laboratory environments
 
-### 📈 Future Improvements
+### 📈 FUTURE IMPROVEMENTS 
 
 * Face recognition instead of only face detection
 * Database integration
