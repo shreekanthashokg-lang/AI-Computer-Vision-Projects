@@ -155,7 +155,7 @@ The **Live Face Attendance System** is a real-time computer vision application d
 
 The project demonstrates how computer vision can be used to automate a basic attendance workflow.
 
-### 🔍 Key Features
+### 🔍 KEY FEATURES 
 
 * Real-time webcam input
 * Face detection
