@@ -183,7 +183,7 @@ Record Name + Date + Time
 CSV Attendance File
 ```
 
-### 💡 Practical Application
+### 💡PRACTICAL APPLICATION 
 
 This type of system can be extended for:
 
