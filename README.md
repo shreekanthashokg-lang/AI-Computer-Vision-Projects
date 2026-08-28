@@ -206,7 +206,7 @@ This type of system can be extended for:
 
 # 2️⃣ 🎨 Real-Time Color Object Tracker
 
-### 📌 Overview
+### 📌 OVERVIEW
 
 The **Color Object Tracker** is a real-time computer vision project that detects and tracks an object based on its color.
 
