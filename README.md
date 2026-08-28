@@ -10,7 +10,7 @@ The goal of this repository is to demonstrate how computer vision concepts can b
 
 ---
 
-## 📌 About This Repository
+## 📌ABOUT THIS REPOSITORY
 
 Computer Vision is one of the most practical areas of Artificial Intelligence, enabling computers to understand and interpret images and videos.
 
