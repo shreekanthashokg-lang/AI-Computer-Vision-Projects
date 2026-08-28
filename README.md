@@ -147,7 +147,7 @@ AI-Computer-Vision-PROJECT/
 
 # 🚀 MINI PROJECTS 
 
-## 1️⃣ Live Face Attendance System
+## 1️⃣LIVE FACE ATTENDANCE SYSTEM 
 
 ### 📌 Overview
 
