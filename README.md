@@ -79,7 +79,7 @@ The learning process focused on implementing concepts through code rather than o
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ TECHNOLOGIES & TOOLS 
 
 | Technology          | Purpose                          |
 | ------------------- | -------------------------------- |
