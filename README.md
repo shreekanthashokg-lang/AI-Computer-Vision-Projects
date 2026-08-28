@@ -60,7 +60,7 @@ The workshop provided practical exposure to computer vision concepts using Pytho
 
 The learning process focused on implementing concepts through code rather than only studying theoretical concepts.
 
-### Key Areas Covered
+### KEYS AREAS COVERED
 
 * Python programming for Computer Vision
 * NumPy operations
