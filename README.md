@@ -165,7 +165,7 @@ The project demonstrates how computer vision can be used to automate a basic att
 * CSV-based attendance logging
 * Real-time visual feedback
 
-### 🔄 Working Pipeline
+### 🔄 WORKING PIPELINE
 
 ```text
 Webcam
