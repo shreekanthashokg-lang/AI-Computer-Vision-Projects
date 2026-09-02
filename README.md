@@ -222,7 +222,7 @@ The application processes webcam frames and identifies pixels belonging to a sel
 * Bounding boxes
 * Real-time tracking
 
-### 🔄 Working Pipeline
+### 🔄 Working PIPELINE
 
 ```text
 Webcam Frame
