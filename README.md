@@ -322,7 +322,7 @@ YOLO (**You Only Look Once**) is a popular object detection approach designed fo
 
 This project uses the **Ultralytics YOLOv8 framework** to detect common objects from images, videos, or webcam streams.
 
-### 🔍 Key Features
+### 🔍 KEY FEATURES
 
 * Real-time object detection
 * Webcam support
