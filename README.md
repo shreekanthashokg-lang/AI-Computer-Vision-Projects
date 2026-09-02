@@ -212,7 +212,7 @@ The **Color Object Tracker** is a real-time computer vision project that detects
 
 The application processes webcam frames and identifies pixels belonging to a selected color range.
 
-### 🔍 Key Concepts
+### 🔍 KEY CONCEPTS
 
 * HSV color space
 * Color masking
