@@ -2,7 +2,7 @@
 
 ### My Computer Vision Journey with Python, OpenCV & YOLO
 
-A practical **Computer Vision portfolio repository** documenting my journey from the fundamentals of image processing and computer vision to **real-time AI applications** using **Python, OpenCV, NumPy, and YOLOv8**.
+A PRACTICAL  **Computer Vision portfolio repository** documenting my journey from the fundamentals of image processing and computer vision to **real-time AI applications** using **Python, OpenCV, NumPy, and YOLOv8**.
 
 This repository includes hands-on exercises, experiments, mini-projects, and real-time computer vision applications developed during my **5-Day Offline Computer Vision Hands-on Workshop by Innomatics Research Labs in July 2026**, along with additional projects developed to strengthen my practical AI/ML skills.
 
