@@ -6,7 +6,7 @@ A PRACTICAL  **Computer Vision portfolio repository** documenting my journey fro
 
 This repository includes hands-on exercises, experiments, mini-projects, and real-time computer vision applications developed during my **5-Day Offline Computer Vision Hands-on Workshop by Innomatics Research Labs in July 2026**, along with additional projects developed to strengthen MY PRACTICAL AI/ML skills.
 
-The goal of this repository is to demonstrate how computer vision concepts can be transformed into **working, real-world applications**.
+The goal of this repository is to demonstrate how computer vision concepts can be transformed into **WORKING, Real-World Applications**.
 
 ---
 
