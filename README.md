@@ -14,7 +14,7 @@ The goal of this repository is to demonstrate how computer vision concepts can b
 
 Computer Vision is one of the most practical areas of Artificial Intelligence, enabling computers to understand and interpret images and videos.
 
-This repository follows a progressive learning approach:
+THIS REPOSITORY follows a progressive learning approach:
 
 ```text
 Python & NumPy
