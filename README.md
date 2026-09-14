@@ -38,8 +38,8 @@ AI-Based Applications
 
 THE PROJECTS range from basic OpenCV operations to real-time applications such as:
 
-* 👤 Face Detection
-* 📝 Face Attendance
+* 👤 FACE DETECTION
+* 📝 FACE Attendance
 * 🎯 Object Tracking
 * 🚨 Motion Detection
 * 🔍 Real-Time Object Detection
