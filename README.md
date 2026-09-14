@@ -204,7 +204,7 @@ This type of system can be extended for:
 
 ---
 
-# 2️⃣ 🎨 Real-Time Color Object TRACKER
+# 2️⃣ 🎨 Real-Time COLOR OBJECT TRACKER
 
 ### 📌 OVERVIEW
 
