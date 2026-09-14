@@ -81,7 +81,7 @@ The learning process focused on implementing concepts through code rather than o
 
 # 🛠️ TECHNOLOGIES & TOOLS 
 
-| Technology          | Purpose                          |
+| TECHNOLOGY          | PURPOSE                          |
 | ------------------- | -------------------------------- |
 | 🐍 Python           | Core programming language        |
 | 👁️ OpenCV          | Image & video processing         |
