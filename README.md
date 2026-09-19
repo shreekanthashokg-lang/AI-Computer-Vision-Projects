@@ -56,7 +56,7 @@ THE PROJECTS range from basic OpenCV operations to real-time applications such a
 **Date:** July 2026
 **Mode:** Offline Hands-on Workshop
 
-The workshop provided practical exposure to computer vision concepts using Python and OpenCV.
+THE WORKSHOP PROVIDED practical exposure to computer vision concepts using Python and OpenCV.
 
 The learning process focused on implementing concepts through code rather than only studying theoretical concepts.
 
