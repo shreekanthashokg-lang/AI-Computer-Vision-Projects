@@ -49,7 +49,7 @@ THE PROJECTS range from basic OpenCV operations to real-time applications such a
 
 # 🎓 COMPLETED COMPUTER VISION  WORKSHOP
 
-## 5-DAY OFFLINE Computer Vision Hands-on Workshop
+## 5-DAY OFFLINE COMPUTER VISION Hands-on Workshop
 
 **Organization:** Innomatics Research Labs
 **Duration:** 5 Days
