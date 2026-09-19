@@ -75,7 +75,7 @@ The learning process focused on implementing concepts through code rather than o
 * Object detection concepts
 * Object tracking
 * Real-time computer vision
-* YOLO-based object detection
+* YOLO-based OBJECT DETECTIONS
 
 ---
 
