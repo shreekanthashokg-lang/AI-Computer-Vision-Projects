@@ -62,7 +62,7 @@ The learning process focused on implementing concepts through code rather than o
 
 ### KEYS AREAS COVERED
 
-* Python programming for Computer Vision
+* PYTHON PROGRAMMING for Computer Vision
 * NumPy operations
 * Image reading and writing
 * Image resizing and transformations
