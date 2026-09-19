@@ -157,7 +157,7 @@ THE PROJECT demonstrates how computer vision can be used to automate a basic att
 
 ### 🔍 KEY FEATURES 
 
-* Real-time webcam input
+* REAL-TIME WEBCAMP INPUT
 * Face detection
 * Detection of multiple faces
 * Attendance recording
