@@ -242,7 +242,7 @@ Draw Bounding Box
 Track Object
 ```
 
-### 💡 Practical Applications
+### 💡 PRACTICAL APPLICATIONS
 
 The concept can be used as a foundation for:
 
