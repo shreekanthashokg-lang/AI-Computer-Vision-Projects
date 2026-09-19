@@ -1,4 +1,4 @@
-# 👁️ AI Computer Vision Projects
+# 👁️ AI COMPUTER VISION PROJECTS
 
 ### MY Computer Vision Journey with Python, OpenCV & YOLO
 
