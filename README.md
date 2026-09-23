@@ -244,7 +244,7 @@ Track Object
 
 ### 💡 PRACTICAL APPLICATIONS
 
-The concept can be used as a foundation for:
+THE CONCEPT CAN BE USED AS A FUNCTION FOR :
 
 * Industrial object tracking
 * Robotic vision
