@@ -42,7 +42,7 @@ THE PROJECTS RANGE FROM basic OpenCV operations to real-time applications such a
 * 📝 FACE Attendance
 * 🎯 Object Tracking
 * 🚨 Motion Detection
-* 🔍 Real-Time Object Detection
+* 🔍 REAL-TIME OBJECT DETECTION 
 * 🤖 YOLOv8-based AI Detection
 
 ---
