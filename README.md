@@ -141,7 +141,7 @@ AI-Computer-Vision-PROJECT/
 └── LICENSE
 ```
 
-> THE EXACT FOLDER structure may evolve as additional computer vision projects are added.
+> THE EXACT FOLDER STRUCTURE MAY EVOLVE AS Additional Computer Vision Projects are added.
 
 ---
 
