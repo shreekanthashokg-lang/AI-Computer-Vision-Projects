@@ -51,7 +51,7 @@ THE PROJECTS RANGE FROM basic OpenCV operations to real-time applications such a
 
 ## 5-DAY OFFLINE COMPUTER VISION Hands-on Workshop
 
-**Organization:** Innomatics Research Labs
+**Organization:** INNOMATICS RESEARCH LABS 
 **Duration:** 5 Days
 **Date:** July 2026
 **Mode:** Offline Hands-on Workshop
