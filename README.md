@@ -1,6 +1,6 @@
 # 👁️ AI COMPUTER VISION PROJECTS
 
-### MY COMPUTER VISION Journey with Python, OpenCV & YOLO
+### MY COMPUTER VISION JOURNEY WITH Python, OpenCV & YOLO
 
 A PRACTICAL  **COMPUTER VISION PORTFOLIO repository** documenting my journey from the fundamentals of image processing and computer vision to **real-time AI applications** using **Python, OpenCV, NumPy, and YOLOv8**.
 
