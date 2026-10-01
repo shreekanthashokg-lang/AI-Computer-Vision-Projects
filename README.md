@@ -254,7 +254,7 @@ THE CONCEPT CAN BE USED AS A FUNCTION FOR :
 
 ---
 
-# 3️⃣ 🚨 Motion Detection & Alert System
+# 3️⃣ 🚨 MOTION DETECTION & ALERT SYSTEM 
 
 ### 📌 Overview
 
