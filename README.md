@@ -14,7 +14,7 @@ THE GOAL OF THIS REPOSITORY is to demonstrate how computer vision concepts can b
 
 Computer Vision is one of the most practical areas of Artificial Intelligence, enabling computers to understand and interpret images and videos.
 
-THIS REPOSITORY follows a progressive learning approach:
+THIS REPOSITORY FOLLOWS A PROGRESSIVE LEARNING APPROACH :
 
 ```text
 Python & NumPy
