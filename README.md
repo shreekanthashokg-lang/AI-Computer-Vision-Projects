@@ -12,7 +12,7 @@ THE GOAL OF THIS REPOSITORY is to demonstrate how computer vision concepts can b
 
 ## 📌ABOUT THIS REPOSITORY
 
-Computer Vision is one of the most practical areas of Artificial Intelligence, enabling computers to understand and interpret images and videos.
+COMPUTER VISION IS ONE OF THE MOST PRACTICAL AREAS OF Artificial Intelligence, enabling computers to understand and interpret images and videos.
 
 THIS REPOSITORY FOLLOWS A PROGRESSIVE LEARNING APPROACH :
 
