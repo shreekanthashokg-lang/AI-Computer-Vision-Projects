@@ -185,7 +185,7 @@ CSV Attendance File
 
 ### 💡PRACTICAL APPLICATION 
 
-This type of system can be extended for:
+THIS TYPE OF SYSTEM CAN BE EXTENDED FOR:
 
 * CLASSROOM ATTEDANCE
 * Office attendance
