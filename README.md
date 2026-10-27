@@ -370,7 +370,7 @@ Depending on the selected pretrained model, the system can detect common objects
 * Laptop
 * Cell phone
 
-and many other pretrained classes.
+AND many OTHER PRETRAINED CLASSES.
 
 ### 💡 Practical Applications
 
