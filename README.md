@@ -320,7 +320,7 @@ The **YOLOv8 Object Detection project** introduces deep-learning-based computer 
 
 YOLO (**You Only Look Once**) is a popular object detection approach designed for fast object detection.
 
-This project uses the **Ultralytics YOLOv8 framework** to detect common objects from images, videos, or webcam streams.
+THIS PROJECT USES THE **Ultralytics YOLOv8 framework** to detect common objects from images, videos, or WEBCAM STREAMS.
 
 ### 🔍 KEY FEATURES
 
