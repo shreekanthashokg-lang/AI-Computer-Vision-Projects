@@ -153,7 +153,7 @@ AI-Computer-Vision-PROJECT/
 
 The **Live Face Attendance System** is a real-time computer vision application designed to detect faces through a webcam and record attendance information.
 
-THE PROJECT demonstrates how computer vision can be used to automate a basic attendance workflow.
+THE PROJECT demonstrated HOW COMPUTER VISION CAN BE USED to AUTOMATE a BASIC ATTENDANCE WORKFLOW.
 
 ### 🔍 KEY FEATURES 
 
