@@ -260,7 +260,7 @@ THE CONCEPT CAN BE USED AS A FUNCTION FOR :
 
 The **Motion Detection & Alert System** detects movement in a video stream by comparing consecutive frames.
 
-When significant movement is detected, the system can generate an alert and log the event.
+WHEN SIGNIFICANT MOVEMENT IS DETECTED, the system can generate an alert and log the event.
 
 ### 🔍 Key Features
 
