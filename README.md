@@ -58,7 +58,7 @@ THE PROJECTS RANGE FROM basic OpenCV operations to real-time applications such a
 
 THE WORKSHOP PROVIDED practical exposure to computer vision concepts using Python and OpenCV.
 
-The learning process focused on implementing concepts through code rather than only studying theoretical concepts.
+THE LEARNING PROCESS FOCUSED on implementing concepts through code rather than only studying theoretical concepts.
 
 ### KEYS AREAS COVERED
 
