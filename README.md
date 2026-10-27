@@ -36,7 +36,7 @@ YOLOv8
 AI-Based Applications
 ```
 
-THE PROJECTS RANGE FROM basic OpenCV operations to real-time applications such as:
+THE PROJECTS RANGE FROM basic OpenCV operational to REAL-TIME APPLICATIONS SUCH AS:
 
 * 👤 FACE DETECTION
 * 📝 FACE Attendance
