@@ -246,7 +246,7 @@ Track Object
 
 THE CONCEPT CAN BE USED AS A FUNCTION FOR :
 
-* Industrial object tracking
+* Industrial OBJECT TRACKING 
 * Robotic vision
 * Gesture-based systems
 * Automated sorting
