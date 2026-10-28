@@ -256,7 +256,7 @@ THE CONCEPT CAN BE USED AS A FUNCTION FOR :
 
 # 3️⃣ 🚨 MOTION DETECTION & ALERT SYSTEM 
 
-### 📌 Overview
+### 📌 OVERVIEWS 
 
 The **Motion Detection & Alert System** detects movement in a video stream by comparing consecutive frames.
 
