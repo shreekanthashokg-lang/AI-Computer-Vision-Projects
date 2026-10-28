@@ -83,14 +83,14 @@ THE LEARNING PROCESS FOCUSED on implementing concepts through code rather than o
 
 | TECHNOLOGY          | PURPOSE                          |
 | ------------------- | -------------------------------- |
-| 🐍 Python           | Core programming language        |
+| 🐍 Python           | CORE PROGRAMMING LANGUAGE        |
 | 👁️ OpenCV          | Image & video processing         |
 | 🤖 YOLOv8           | Real-time object detection       |
 | 🔢 NumPy            | Numerical and array operations   |
 | 📊 Matplotlib       | Visualization and image analysis |
 | 🧠 Ultralytics      | YOLO implementation              |
 | 📄 CSV              | Attendance and event logging     |
-| 💻 Jupyter Notebook | Experimentation and learning     |
+| 💻 Jupyter Notebook | EXPERIMENTATION and learning     |
 
 ---
 
