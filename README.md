@@ -218,9 +218,9 @@ THE APPLICATION PROCESSES WEBCAM frames and identifies pixels belonging to a sel
 * Color masking
 * Thresholding
 * Contour detection
-* Object center calculation
+* Object center CALCULATION 
 * Bounding boxes
-* Real-time tracking
+* REAL-TIME TRACKING 
 
 ### 🔄 WORKING PIPELINE
 
