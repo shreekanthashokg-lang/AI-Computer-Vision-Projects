@@ -312,7 +312,7 @@ Log Event
 
 ---
 
-# 4️⃣ 🤖 YOLOv8 Real-Time Object Detection
+# 4️⃣ 🤖 YOLOv8 REAL-TIME OBJECT DETECTION 
 
 ### 📌 Overview
 
