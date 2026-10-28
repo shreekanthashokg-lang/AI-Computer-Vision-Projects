@@ -262,7 +262,7 @@ The **Motion Detection & Alert System** detects movement in a video stream by co
 
 WHEN SIGNIFICANT MOVEMENT IS DETECTED, the system can generate an alert and log the event.
 
-### 🔍 Key Features
+### 🔍 KEY FEATURES 
 
 * Real-time video monitoring
 * Background/frame comparison
