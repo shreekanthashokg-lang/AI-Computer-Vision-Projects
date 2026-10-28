@@ -188,10 +188,10 @@ CSV Attendance File
 THIS TYPE OF SYSTEM CAN BE EXTENDED FOR:
 
 * CLASSROOM ATTEDANCE
-* Office attendance
+* Office ATTENDANCE 
 * Training centers
 * Workshops
-* Laboratory environments
+* Laboratory ENVIRONMENTS 
 
 ### 📈 FUTURE IMPROVEMENTS 
 
