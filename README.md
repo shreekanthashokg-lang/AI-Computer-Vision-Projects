@@ -195,8 +195,8 @@ THIS TYPE OF SYSTEM CAN BE EXTENDED FOR:
 
 ### 📈 FUTURE IMPROVEMENTS 
 
-* FACE RECOGNITION instead of only face detection
-* Database integration
+* FACE RECOGNITION INSTEAD OF ONLY FACE DETECTION 
+* Database INTEGRATION 
 * Multiple-user recognition
 * Anti-spoofing
 * Web dashboard
