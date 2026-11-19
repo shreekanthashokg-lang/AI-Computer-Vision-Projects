@@ -208,7 +208,7 @@ THIS TYPE OF SYSTEM CAN BE EXTENDED FOR:
 
 ### 📌 OVERVIEW
 
-The **Color Object Tracker** is a real-time computer vision project that detects and tracks an object based on its color.
+The **Color Object Tracker** IS A REAL-TIME COMPUTER VISION PROJECT  that detects and tracks an object based on its color.
 
 THE APPLICATION PROCESSES WEBCAM frames AND IDENTIFIES pixels BELONGING to a SELECTED COLOR RANGE.
 
